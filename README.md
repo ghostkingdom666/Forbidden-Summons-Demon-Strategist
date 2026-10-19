@@ -4,7 +4,7 @@
 
 你是被封在禁书里的魔王。从书页边缘召唤魔物，让闯入者的士气归零。
 
-**[下载试玩 Demo](https://github.com/ghostkingdom666/mowang-jinshu-demo/releases/tag/v0.1.0-demo.1)** · **[报告 Bug](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=bug_report.yml)** · **[提交试玩反馈](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=playtest_feedback.yml)**
+**[下载试玩 Demo](https://github.com/ghostkingdom666/mowang-jinshu-demo/releases/tag/v0.1.1)** · **[报告 Bug](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=bug_report.yml)** · **[提交试玩反馈](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=playtest_feedback.yml)**
 
 本仓库用于试玩包发布、版本说明和玩家反馈，不存放游戏工程或源素材。项目为 TECHATHON 2026 参赛作品。
 
@@ -12,12 +12,12 @@
 
 ## 下载与启动
 
-在上方下载页的 **Assets** 中选择系统对应的文件，解压后运行，无需安装 Godot。
+在上方下载页的 **Assets** 中选择系统对应的文件，下载（macOS 包解压）后即可运行，无需安装 Godot。
 
 | 平台 | 文件 | 启动方式 |
 |---|---|---|
-| Windows x64 | `mowang-jinshu-demo-0.1.0-demo.1-windows-x64.zip` | 解压后运行 `mowang-jinshu-demo.exe` |
-| macOS Intel / Apple Silicon | `mowang-jinshu-demo-0.1.0-demo.1-macos-universal.zip` | 解压后打开 `.app` |
+| Windows x64 | `monster.exe` | 下载后直接运行 `monster.exe` |
+| macOS Intel / Apple Silicon | `monster_mac.zip` | 解压后打开其中的 `.app` |
 
 下载页另附 `SHA256SUMS.txt`，可核对下载文件。macOS 包为未公证的试玩构建，尚未在 macOS 真机验证；遇到系统拦截或启动异常，请在 Bug 反馈中附上具体提示。
 
@@ -28,6 +28,8 @@
 - **召唤与集结**：外围部署，短时间连点集结，用失败风险换取爆发。
 - **魔王指挥**：跟随音乐敲击节拍，积累共鸣、获取战斗奖励。
 - **立体书图鉴**：查看十一种魔物，包括四种新头领及其能力。
+- **卡组系统**：v0.1.1 新增，可在开始前组建自己的魔物卡组。
+- **魔物图鉴 / 头领 / Buff 图鉴 / 秘术图鉴**：v0.1.1 新增，集中查看魔物、头领、增益减益与秘术资料。
 
 试玩版包含尚在调整的机制、数值和临时卡面，欢迎反馈难度、节奏与可读性问题。
 
