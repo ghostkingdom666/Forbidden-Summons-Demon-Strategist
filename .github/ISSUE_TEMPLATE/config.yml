@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 下载试玩与查看更新
+    url: https://github.com/ghostkingdom666/mowang-jinshu-demo/releases
+    about: 试玩包与版本说明位于Releases。
+  - name: 反馈指南
+    url: https://github.com/ghostkingdom666/mowang-jinshu-demo/blob/main/SUPPORT.md
+    about: 查看如何提交问题、体验反馈与日志。

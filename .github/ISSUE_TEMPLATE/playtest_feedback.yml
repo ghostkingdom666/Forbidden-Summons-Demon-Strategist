@@ -1,0 +1,43 @@
+name: 试玩体验／玩法建议
+description: 难度、平衡、节奏、引导、可读性及整体感受
+title: "[试玩反馈] "
+labels: [feedback]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 试玩版本
+      placeholder: 例如 v0.1.0-demo.1
+    validations:
+      required: true
+  - type: input
+    id: progress
+    attributes:
+      label: 游玩时长与进度
+      placeholder: 例如约20分钟，完成第一章，尝试过肉鸽
+  - type: dropdown
+    id: category
+    attributes:
+      label: 主要反馈方向
+      options:
+        - 整体体验
+        - 新手引导／操作理解
+        - 难度与平衡
+        - 魔物与头领
+        - 节奏指挥
+        - 卡牌／图鉴／画面可读性
+        - 肉鸽玩法
+        - 其他建议
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: 具体感受或建议
+      description: 可以描述最喜欢的部分、最困惑的地方，或希望调整的内容；附当时的关卡与阵容会更有帮助。
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: 截图或视频（可选）

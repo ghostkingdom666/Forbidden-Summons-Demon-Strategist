@@ -1,0 +1,52 @@
+name: Bug／运行问题
+description: 闪退、无法启动、操作异常、画面或音频问题
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 试玩版本
+      placeholder: 例如 v0.1.0-demo.1，或下载包完整文件名
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: 系统与设备
+      placeholder: 例如 Windows 11／macOS版本、显卡型号（不知道可省略）
+    validations:
+      required: true
+  - type: dropdown
+    id: location
+    attributes:
+      label: 发生位置
+      options:
+        - 启动／主菜单
+        - 图鉴／设置
+        - 第一章·骑士
+        - 第二章·游侠
+        - 第三章·法师
+        - 肉鸽试炼
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 问题与复现步骤
+      description: 写下问题发生前的操作，以及是否每次都会发生。
+      placeholder: "1. 进入……\n2. 点击……\n3. 出现……"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期待结果与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: 截图、录像或日志
+      description: 可拖入附件；提交前请移除个人信息。无法获取日志也可以提交。

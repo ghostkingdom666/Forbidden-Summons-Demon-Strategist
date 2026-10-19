@@ -1,0 +1,7 @@
+# 游戏包作为Release附件发布，不放入Git历史。
+*.exe
+*.pck
+*.zip
+*.app/
+.DS_Store
+Thumbs.db
