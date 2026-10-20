@@ -2,7 +2,7 @@
 
 ## Bug 与运行问题
 
-打开 [Bug 表单](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=bug_report.yml)，填写：
+打开 [Bug 表单](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=bug_report.yml)，填写：
 
 1. 下载包版本、操作系统、显卡型号（知道的话）。
 2. 所处章节／肉鸽阶段，以及问题发生前做了什么。
@@ -13,7 +13,7 @@
 
 ## 玩法与体验反馈
 
-打开 [试玩反馈表单](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=playtest_feedback.yml)。我们特别想了解：
+打开 [试玩反馈表单](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=playtest_feedback.yml)。我们特别想了解：
 
 - 你在几分钟后理解了士气、召唤和集结？哪里让你困惑？
 - 哪位勇者过难或过易？你使用了什么阵容？

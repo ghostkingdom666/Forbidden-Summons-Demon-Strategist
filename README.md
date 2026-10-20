@@ -4,7 +4,7 @@
 
 你是被封在禁书里的魔王。从书页边缘召唤魔物，让闯入者的士气归零。
 
-**[下载试玩 Demo](https://github.com/ghostkingdom666/mowang-jinshu-demo/releases/tag/v0.1.2)** · **[报告 Bug](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=bug_report.yml)** · **[提交试玩反馈](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=playtest_feedback.yml)**
+**[下载试玩 Demo](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/releases/tag/v0.1.2)** · **[报告 Bug](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=bug_report.yml)** · **[提交试玩反馈](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=playtest_feedback.yml)**
 
 本仓库用于试玩包发布、版本说明和玩家反馈，不存放游戏工程或源素材。项目为 TECHATHON 2026 参赛作品。
 
@@ -56,9 +56,9 @@
 
 ## 帮我们把游戏做得更好
 
-- **卡住、闪退、操作异常、画面或音频错误**：使用 [Bug 表单](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=bug_report.yml)。
-- **难度、平衡、节奏、玩法建议、整体体验**：使用 [试玩反馈表单](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=playtest_feedback.yml)。
-- 提交前可先看 [已有反馈](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues)，相同问题可补充复现信息或点赞。
+- **卡住、闪退、操作异常、画面或音频错误**：使用 [Bug 表单](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=bug_report.yml)。
+- **难度、平衡、节奏、玩法建议、整体体验**：使用 [试玩反馈表单](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=playtest_feedback.yml)。
+- 提交前可先看 [已有反馈](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues)，相同问题可补充复现信息或点赞。
 
 提交反馈需要 GitHub 账号。请写明试玩版本、系统和所处关卡；截图或短视频会很有帮助。详细流程见 [反馈指南](SUPPORT.md)。
 
@@ -66,7 +66,7 @@
 
 ## 版本与资源说明
 
-- [全部试玩版本](https://github.com/ghostkingdom666/mowang-jinshu-demo/releases)
+- [全部试玩版本](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/releases)
 - [更新记录](CHANGELOG.md)
 - [第三方资源与致谢](THIRD_PARTY_NOTICES.md)
 
