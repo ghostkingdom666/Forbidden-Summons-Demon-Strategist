@@ -7,7 +7,7 @@ body:
     id: version
     attributes:
       label: 试玩版本
-      placeholder: 例如 v0.1.1，或下载包完整文件名
+      placeholder: 例如 v0.1.2，或下载包完整文件名
     validations:
       required: true
   - type: input

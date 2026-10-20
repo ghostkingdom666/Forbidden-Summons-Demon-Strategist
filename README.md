@@ -4,7 +4,7 @@
 
 你是被封在禁书里的魔王。从书页边缘召唤魔物，让闯入者的士气归零。
 
-**[下载试玩 Demo](https://github.com/ghostkingdom666/mowang-jinshu-demo/releases/tag/v0.1.1)** · **[报告 Bug](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=bug_report.yml)** · **[提交试玩反馈](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=playtest_feedback.yml)**
+**[下载试玩 Demo](https://github.com/ghostkingdom666/mowang-jinshu-demo/releases/tag/v0.1.2)** · **[报告 Bug](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=bug_report.yml)** · **[提交试玩反馈](https://github.com/ghostkingdom666/mowang-jinshu-demo/issues/new?template=playtest_feedback.yml)**
 
 本仓库用于试玩包发布、版本说明和玩家反馈，不存放游戏工程或源素材。项目为 TECHATHON 2026 参赛作品。
 
@@ -29,7 +29,9 @@
 - **魔王指挥**：跟随音乐敲击节拍，积累共鸣、获取战斗奖励。
 - **立体书图鉴**：查看十一种魔物，包括四种新头领及其能力。
 - **卡组系统**：v0.1.1 新增，可在开始前组建自己的魔物卡组。
-- **魔物图鉴 / 头领 / Buff 图鉴 / 秘术图鉴**：v0.1.1 新增，集中查看魔物、头领、增益减益与秘术资料。
+- **魔物图鉴 / 头领 / Buff 图鉴 / 秘术图鉴**：集中查看魔物、头领、增益减益与秘术资料。
+- **肉鸽局外研修**：v0.1.2 新增，在局外进行长期培养成长。
+- **禁书袭击**：v0.1.2 新增的袭击机制。
 
 试玩版包含尚在调整的机制、数值和临时卡面，欢迎反馈难度、节奏与可读性问题。
 
