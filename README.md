@@ -4,7 +4,7 @@
 
 你是被封在禁书里的魔王。从书页边缘召唤魔物，让闯入者的士气归零。
 
-**[下载试玩 Demo](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/releases/tag/v0.2.0)** · **[报告 Bug](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=bug_report.yml)** · **[提交试玩反馈](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=playtest_feedback.yml)**
+**[下载试玩 Demo](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/releases/tag/v0.2.2)** · **[报告 Bug](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=bug_report.yml)** · **[提交试玩反馈](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=playtest_feedback.yml)**
 
 本仓库用于试玩包发布、版本说明和玩家反馈，不存放游戏工程或源素材。项目为 TECHATHON 2026 参赛作品。
 
@@ -33,6 +33,7 @@
 - **肉鸽局外研修**：v0.1.2 新增，在局外进行长期培养成长。
 - **禁书袭击**：v0.1.2 新增的袭击机制。
 - **乐师 Boss**：v0.2.0 新增的 Boss 战。
+- **治疗者单位 / 移动端适配**：v0.2.2 新增治疗者单位，并完成移动端适配。
 
 试玩版包含尚在调整的机制、数值和临时卡面，欢迎反馈难度、节奏与可读性问题。
 
