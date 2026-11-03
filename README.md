@@ -4,7 +4,7 @@
 
 你是被封在禁书里的魔王。从书页边缘召唤魔物，让闯入者的士气归零。
 
-**[下载试玩 Demo](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/releases/tag/v0.3.0)** · **[报告 Bug](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=bug_report.yml)** · **[提交试玩反馈](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=playtest_feedback.yml)**
+**[下载试玩 Demo](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/releases/tag/v0.3.1)** · **[报告 Bug](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=bug_report.yml)** · **[提交试玩反馈](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=playtest_feedback.yml)**
 
 本仓库用于试玩包发布、版本说明和玩家反馈，不存放游戏工程或源素材。项目为 TECHATHON 2026 参赛作品。
 
@@ -37,6 +37,7 @@
 - **折页驿使（courier）**：v0.2.4 新增的折页驿使单位，同时优化了启动界面。
 - **三种战术兵种**：v0.3.0 新增镜贝、荆棘草、藏墨蟾。
 - **主题试炼与通关记录**：v0.3.0 新增。
+- **剑与枪火增援试炼**：v0.3.1 新增双勇者增援试炼，以及活墨循环研修与封存名录。
 
 试玩版包含尚在调整的机制、数值和临时卡面，欢迎反馈难度、节奏与可读性问题。
 
