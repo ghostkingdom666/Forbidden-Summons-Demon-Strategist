@@ -4,7 +4,7 @@
 
 你是被封在禁书里的魔王。从书页边缘召唤魔物，让闯入者的士气归零。
 
-**[下载试玩 Demo](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/releases/tag/v0.4.1)** · **[报告 Bug](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=bug_report.yml)** · **[提交试玩反馈](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=playtest_feedback.yml)**
+**[下载试玩 Demo](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/releases/tag/v0.4.2)** · **[报告 Bug](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=bug_report.yml)** · **[提交试玩反馈](https://github.com/ghostkingdom666/Forbidden-Summons-Demon-Strategist/issues/new?template=playtest_feedback.yml)**
 
 本仓库用于试玩包发布、版本说明和玩家反馈，不存放游戏工程或源素材。项目为 TECHATHON 2026 参赛作品。
 
@@ -41,6 +41,7 @@
 - **正反馈与结算回放**：v0.3.2 新增战斗拍击反馈、逐位勇者卷轴结算回放与节点标记。
 - **刺客与圣骑士勇者**：v0.4.0 新增刺客勇者与圣骑士（赫铎 · 不退之垒）第五章、盾卫冲锋提示与关卡目录。
 - **闪电法师与战斗特效**：v0.4.1 新增第七章闪电法师勇者、战斗特效与灵光召唤特效。
+- **艾洛德与前端体验**：v0.4.2 新增剧情角色名册与雷角色语音，并完成HUD布局、召唤反馈、分页结算、立体书菜单与字体优化。
 
 试玩版包含尚在调整的机制、数值和临时卡面，欢迎反馈难度、节奏与可读性问题。
 
